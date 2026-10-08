@@ -11,7 +11,7 @@ Author and filmmaker @ [jetwilliams.com](https://jetwilliams.com)
 | [Context Pod](https://github.com/jetwilliams/context-pod) | Plain-text memory you own, for any AI model |
 | [Bebop](https://github.com/jetwilliams/bebop) | An AI studio you run from your phone |
 | [Content Factory](https://github.com/jetwilliams/content-factory) | An automated end-to-end pipeline for short-form video |
-| [Moop](https://github.com/jetwilliams/moop) | A music loop: agents write it as code, you rate it, it learns your taste |
+| [MOOP](https://github.com/jetwilliams/moop) | A music loop: agents write it as code, you rate it, it learns your taste |
 
 **Hardware**
 
