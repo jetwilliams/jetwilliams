@@ -1,29 +1,34 @@
-# Hi, I'm Jet 👋
+### Jet Williams
 
-Hands-on technologist, author and filmmaker. I build systems with AI agents, radios, mesh networks and my own two hands,
-then document them so you can build them too.
+Systems engineer, hardware hacker and privacy advocate  
+Thinking in public @ [jetworks.io](https://jetworks.io)  
+Author and filmmaker @ [jetwilliams.com](https://jetwilliams.com)
 
-- 🛠️ Tech blog: [jetworks.io](https://jetworks.io)
-- 🎬 Creative work (writing, film): [jetwilliams.com](https://jetwilliams.com)
+**Software**
 
-## 💻 Software
-
-| Repo | What it is |
+| Project | What it is |
 |---|---|
-| [Context Pod](https://github.com/jetwilliams/context-pod) | A folder of plain-text files you own that plugs into any AI model: your memory + workspace |
-| [Bebop](https://github.com/jetwilliams/bebop) | Run a one-person AI studio from your phone. Your crew of agents keeps the ship running while you're AFK |
-| [Content Factory](https://github.com/jetwilliams/content-factory) | Topic → finished short video. Swappable AI, voice, visuals and code-generated music, with a human approval gate before anything posts |
-| [MOOP](https://github.com/jetwilliams/moop) | Grow your own music: agents write it as code, you rate it, it learns your taste. Go moop a track. |
+| [Context Pod](https://github.com/jetwilliams/context-pod) | Plain-text memory you own, for any AI model |
+| [Bebop](https://github.com/jetwilliams/bebop) | An AI studio you run from your phone |
+| [Content Factory](https://github.com/jetwilliams/content-factory) | An automated end-to-end pipeline for short-form video |
+| [MOOP](https://github.com/jetwilliams/moop) | A music loop: agents write it as code, you rate it, it learns your taste |
 
-All model-agnostic: swap any AI, API or provider.
+**Hardware**
 
-## 🔧 Hardware 🚧
+WIP: build logs, parts lists and print files coming soon.
 
-Radio, mesh, antennas, ground stations and rocketry electronics, with parts lists, 3D-print files and build logs.
-**Work in progress:** first builds coming soon.
+**Latest blog posts**
 
-## 📡 Currently
+<!-- blog:start -->
+- [My Mobile AI Studio](https://jetworks.io/posts/mobile-ai-studio/) / 08 Oct 2026
+- [FPV is way harder than I thought](https://jetworks.io/posts/fpv/) / 19 Sep 2026
+- [Systems](https://jetworks.io/posts/systems/) / 15 Aug 2026
+- [CRAG & BAMBOOZLE](https://jetworks.io/posts/crag-and-bamboozle/) / 14 Aug 2026
+- [Jetflix](https://jetworks.io/posts/jetflix/) / 10 Aug 2026
+<!-- blog:end -->
 
-- Studying: Security+ → CCNA
-- Building: a rooftop mast for tracking planes and satellites
-- Learning: amateur radio, rocketry, electronics
+**Interests**
+
+Agentic systems / cybersecurity / privacy / crypto / supply chain / open source / self-hosting / networking /
+hardware / electronics and embedded / radio / antennas / mesh networks / satellites / rocketry / drones and FPV /
+VR / 3D printing / DIY / music as code
