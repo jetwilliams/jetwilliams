@@ -21,10 +21,10 @@ WIP: build logs, parts lists and print files coming soon.
 
 <!-- blog:start -->
 - [Symbiotic Software & Seed Banks](https://jetworks.io/posts/symbiotic-software/) / 09 Oct 2026
+- [The Remix Economy](https://jetworks.io/posts/the-remix-economy/) / 09 Oct 2026
 - [My Mobile AI Studio](https://jetworks.io/posts/mobile-ai-studio/) / 08 Oct 2026
 - [FPV is way harder than I thought](https://jetworks.io/posts/fpv/) / 19 Sep 2026
 - [Systems](https://jetworks.io/posts/systems/) / 15 Aug 2026
-- [CRAG & BAMBOOZLE](https://jetworks.io/posts/crag-and-bamboozle/) / 14 Aug 2026
 <!-- blog:end -->
 
 **Interests**
