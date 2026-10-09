@@ -20,11 +20,11 @@ WIP: build logs, parts lists and print files coming soon.
 **Latest blog posts**
 
 <!-- blog:start -->
+- [Would you like to cancel your subscription?](https://jetworks.io/posts/cancel-your-subscription/) / 10 Oct 2026
 - [Symbiotic Software & Seed Banks](https://jetworks.io/posts/symbiotic-software/) / 09 Oct 2026
 - [The Remix Economy](https://jetworks.io/posts/the-remix-economy/) / 09 Oct 2026
 - [My Mobile AI Studio](https://jetworks.io/posts/mobile-ai-studio/) / 08 Oct 2026
 - [FPV is way harder than I thought](https://jetworks.io/posts/fpv/) / 19 Sep 2026
-- [Systems](https://jetworks.io/posts/systems/) / 15 Aug 2026
 <!-- blog:end -->
 
 **Interests**
